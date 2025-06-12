@@ -84,6 +84,47 @@ const products = [
     image: "https://ae-pic-a1.aliexpress-media.com/kf/Sb834d15d1c4745ce9b3c5c798b081c11n.jpg_960x960q75.jpg_.avif?w=400&h=300&fit=crop",
     category: "Hogar"
   }
+  {
+    id: 11,
+    name: "Lámpara LED Recargable",
+    description: "Lámpara portátil LED con batería recargable por USB. Ideal para camping, emergencias o escritorio. Ligera y duradera.",
+    price: 9.99,
+    image: "https://m.media-amazon.com/images/I/71jKL0YniCL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    category: "Electrónicos"
+  },
+  {
+    id: 12,
+    name: "Organizador de Cables Multifuncional",
+    description: "Caja organizadora para cables, cargadores y accesorios tecnológicos. Mantén tu escritorio limpio y ordenado.",
+    price: 9.49,
+    image: "https://m.media-amazon.com/images/I/71sV46xTxDL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    category: "Accesorios"
+  },
+  {
+    id: 13,
+    name: "Guantes Antideslizantes Cocina",
+    description: "Par de guantes resistentes al calor para cocina o parrilla. Material antideslizante y seguro para temperaturas elevadas.",
+    price: 9.89,
+    image: "https://m.media-amazon.com/images/I/61UWyvM52hL._AC_SL1200_.jpg?w=400&h=300&fit=crop",
+    category: "Hogar"
+  },
+  {
+    id: 14,
+    name: "Botella Deportiva con Filtro",
+    description: "Botella reutilizable de 650ml con filtro incluido. Ideal para actividades deportivas y al aire libre. Libre de BPA.",
+    price: 9.75,
+    image: "https://m.media-amazon.com/images/I/61sK6GdRxKL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    category: "Accesorios"
+  },
+  {
+    id: 15,
+    name: "Cortador de Verduras Multifunción",
+    description: "Herramienta de cocina 4 en 1 para cortar, rallar y pelar vegetales. Ahorra tiempo y espacio en la cocina.",
+    price: 9.59,
+    image: "https://m.media-amazon.com/images/I/71K92aV3sZL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    category: "Hogar"
+  }
+  
 ];
 
 const ProductsSection = () => {
