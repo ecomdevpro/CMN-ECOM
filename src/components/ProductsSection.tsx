@@ -16,7 +16,7 @@ const products = [
     id: 2,
     name: "Cafetera Espresso Automática",
     description: "Máquina de café espresso totalmente automática con molinillo integrado. Sistema de vapor para cappuccinos y lattes. Ideal para oficinas y hogares.",
-    price: 89.99,
+    price: 69.99,
     image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
     category: "Hogar"
   },
