@@ -56,8 +56,8 @@ const products = [
     id: 7,
     name: "Tablet 10 Pulgadas 4G",
     description: "Tablet Android con pantalla Full HD, 4GB RAM, 64GB almacenamiento. Conectividad 4G LTE. Perfecta para trabajo y entretenimiento.",
-    price: 179.99,
-    image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=400&h=300&fit=crop",
+    price: 36.99,
+    image: "https://s.alicdn.com/@sc04/kf/Hf569a5432eba43c79a4bf7297949456bT.jpg_720x720q50.jpg?w=400&h=300&fit=crop",
     category: "Electrónicos"
   },
   {
