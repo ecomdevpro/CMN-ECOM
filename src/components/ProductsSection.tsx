@@ -17,7 +17,7 @@ const products = [
     name: "Cafetera Espresso Automática",
     description: "Máquina de café espresso totalmente automática con molinillo integrado. Sistema de vapor para cappuccinos y lattes. Ideal para oficinas y hogares.",
     price: 69.99,
-    image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    image: "https://d296pbmv9m7g8v.cloudfront.net/Custom/Content/Products/10/40/1040935_cafeteira-dolce-gusto-arno-genio-s-plus-dgs3-capsula-automatica-vermelha-10006431_z144_638597707627247593.webp?w=400&h=300&fit=crop",
     category: "Hogar"
   },
   {
@@ -48,7 +48,7 @@ const products = [
     id: 6,
     name: "Mochila Antirobo Premium",
     description: "Mochila de alta seguridad con puerto USB, compartimento para laptop hasta 15.6 pulgadas. Material resistente al agua y cremalleras ocultas.",
-    price: 59.99,
+    price: 19.99,
     image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
     category: "Accesorios"
   },
