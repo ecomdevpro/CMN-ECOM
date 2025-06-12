@@ -89,7 +89,7 @@ const products = [
     name: "Lámpara LED Recargable",
     description: "Lámpara portátil LED con batería recargable por USB. Ideal para camping, emergencias o escritorio. Ligera y duradera.",
     price: 9.99,
-    image: "https://m.media-amazon.com/images/I/71jKL0YniCL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    image: "https://images.tcdn.com.br/img/img_prod/1180965/lampada_led_recarregavel_usb_100w_197863159_1_a97addec16c8fde96ec400e84f2e5b20.jpg?w=400&h=300&fit=crop",
     category: "Electrónicos"
   },
   {
@@ -97,7 +97,7 @@ const products = [
     name: "Organizador de Cables Multifuncional",
     description: "Caja organizadora para cables, cargadores y accesorios tecnológicos. Mantén tu escritorio limpio y ordenado.",
     price: 9.49,
-    image: "https://m.media-amazon.com/images/I/71sV46xTxDL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    image: "https://ugreendobrasil.com.br/wp-content/uploads/2024/05/3880_01.jpg?w=400&h=300&fit=crop",
     category: "Accesorios"
   },
   {
@@ -105,7 +105,7 @@ const products = [
     name: "Guantes Antideslizantes Cocina",
     description: "Par de guantes resistentes al calor para cocina o parrilla. Material antideslizante y seguro para temperaturas elevadas.",
     price: 9.89,
-    image: "https://m.media-amazon.com/images/I/61UWyvM52hL._AC_SL1200_.jpg?w=400&h=300&fit=crop",
+    image: "https://ae01.alicdn.com/kf/H917b2099d8264e888d1004f735cf9f24w/Guantes-Resistentes-a-Altas-Temperaturas-para-la-Parrilla-Manoplas-Ign-fugas-con-Aislamiento-de-500-800.jpg?w=400&h=300&fit=crop",
     category: "Hogar"
   },
   {
@@ -113,7 +113,7 @@ const products = [
     name: "Botella Deportiva con Filtro",
     description: "Botella reutilizable de 650ml con filtro incluido. Ideal para actividades deportivas y al aire libre. Libre de BPA.",
     price: 9.75,
-    image: "https://m.media-amazon.com/images/I/61sK6GdRxKL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    image: "https://www.thundra.co/wp-content/uploads/2020/03/IMG_2542-1.jpeg?w=400&h=300&fit=crop",
     category: "Accesorios"
   },
   {
@@ -121,7 +121,7 @@ const products = [
     name: "Cortador de Verduras Multifunción",
     description: "Herramienta de cocina 4 en 1 para cortar, rallar y pelar vegetales. Ahorra tiempo y espacio en la cocina.",
     price: 9.59,
-    image: "https://m.media-amazon.com/images/I/71K92aV3sZL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
+    image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m21aayr3a501be?w=400&h=300&fit=crop",
     category: "Hogar"
   }
 ];
