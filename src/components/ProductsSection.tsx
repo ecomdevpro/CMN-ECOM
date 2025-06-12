@@ -83,7 +83,7 @@ const products = [
     price: 14.99,
     image: "https://ae-pic-a1.aliexpress-media.com/kf/Sb834d15d1c4745ce9b3c5c798b081c11n.jpg_960x960q75.jpg_.avif?w=400&h=300&fit=crop",
     category: "Hogar"
-  }
+  },
   {
     id: 11,
     name: "Lámpara LED Recargable",
@@ -124,7 +124,6 @@ const products = [
     image: "https://m.media-amazon.com/images/I/71K92aV3sZL._AC_SL1500_.jpg?w=400&h=300&fit=crop",
     category: "Hogar"
   }
-  
 ];
 
 const ProductsSection = () => {
