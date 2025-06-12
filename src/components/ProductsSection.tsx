@@ -8,7 +8,7 @@ const products = [
     id: 1,
     name: "Auriculares Inalámbricos Premium",
     description: "Auriculares Bluetooth de alta calidad con cancelación de ruido activa. Batería de larga duración hasta 30 horas. Perfectos para uso profesional y personal.",
-    price: 89.99,
+    price: 19.99,
     image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
     category: "Electrónicos"
   },
@@ -16,7 +16,7 @@ const products = [
     id: 2,
     name: "Cafetera Espresso Automática",
     description: "Máquina de café espresso totalmente automática con molinillo integrado. Sistema de vapor para cappuccinos y lattes. Ideal para oficinas y hogares.",
-    price: 299.99,
+    price: 89.99,
     image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
     category: "Hogar"
   },
@@ -24,15 +24,15 @@ const products = [
     id: 3,
     name: "Kit Herramientas Profesional",
     description: "Set completo de herramientas para profesionales. Incluye taladro, destornilladores, llaves y maletín organizador. Garantía de 2 años.",
-    price: 149.99,
-    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=300&fit=crop",
+    price: 24.99,
+    image: "https://m.media-amazon.com/images/I/81NzamswRGL.__AC_SX300_SY300_QL70_ML2_.jpg?w=400&h=300&fit=crop",
     category: "Herramientas"
   },
   {
     id: 4,
     name: "Smartwatch Deportivo",
     description: "Reloj inteligente con GPS, monitor de ritmo cardíaco y resistente al agua. Compatible con iOS y Android. Pantalla AMOLED de alta resolución.",
-    price: 199.99,
+    price: 39.99,
     image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
     category: "Electrónicos"
   },
@@ -40,8 +40,8 @@ const products = [
     id: 5,
     name: "Aspiradora Robot Inteligente",
     description: "Robot aspirador con navegación inteligente y mapeo láser. Control por app móvil. Base de carga automática y filtro HEPA incluido.",
-    price: 249.99,
-    image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop",
+    price: 34.99,
+    image: "https://cdn.awsli.com.br/2500x2500/2780/2780034/produto/317870928/img_0319-ywe0antymz.jpeg?w=400&h=300&fit=crop",
     category: "Hogar"
   },
   {
@@ -64,7 +64,7 @@ const products = [
     id: 8,
     name: "Set Utensilios Cocina Acero",
     description: "Juego completo de utensilios de cocina en acero inoxidable. Incluye sartenes, ollas y accesorios. Apto para todo tipo de cocinas.",
-    price: 129.99,
+    price: 39.99,
     image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
     category: "Hogar"
   },
@@ -72,16 +72,16 @@ const products = [
     id: 9,
     name: "Cámara de Seguridad WiFi",
     description: "Cámara IP inalámbrica con visión nocturna y detección de movimiento. Resolución 1080p Full HD. Acceso remoto desde smartphone.",
-    price: 79.99,
-    image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop",
+    price: 29.99,
+    image: "https://www.upperseg.com.br/img/products/camera-ip-sem-fio-mini-speed-dome-wi-fi-full-hd-1080p-infravermelho-ip66_1_2000.webp?w=400&h=300&fit=crop",
     category: "Electrónicos"
   },
   {
     id: 10,
     name: "Juego Toallas Premium Bambú",
     description: "Set de toallas de bambú ultra suaves y absorbentes. Antibacterianas y ecológicas. Incluye toallas de baño, mano y cara.",
-    price: 69.99,
-    image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=400&h=300&fit=crop",
+    price: 14.99,
+    image: "https://ae-pic-a1.aliexpress-media.com/kf/Sb834d15d1c4745ce9b3c5c798b081c11n.jpg_960x960q75.jpg_.avif?w=400&h=300&fit=crop",
     category: "Hogar"
   }
 ];
